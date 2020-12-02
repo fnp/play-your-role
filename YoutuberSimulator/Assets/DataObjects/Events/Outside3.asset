@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2505bd1a0ca50469fc0ed9fdc75d15, type: 3}
+  m_Name: Outside3
+  m_EditorClassIdentifier: 
+  Description: OUTSIDE3D
+  OptionOneDescription: OUTSIDE3A
+  OptionTwoDescription: OUTSIDE3B
+  OptionOneType1: 1
+  OptionOneType2: 2
+  OptionTwoType1: 1
+  OptionTwoType2: 0
+  OptionOneAmount1: -15
+  OptionOneAmount2: -5
+  OptionTwoAmount1: 15
+  OptionTwoAmount2: 100

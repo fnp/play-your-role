@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a8382d371b54041be6af3e2b131c3e, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  GameTimer: 0.5
+  CurrentTimer: 0.38392332
+  GameStarted: 0
+  TicksForEvent: 0
+  NextEventAtTicks: 97
+  EventReady: 0
+  CurrentEvent: {fileID: 11400000, guid: f6f113b886881d64cabcdd306279b9de, type: 2}
+  StreamingEvents:
+  - {fileID: 11400000, guid: 2ef8214864aef87438a7e8036b69b8a3, type: 2}
+  - {fileID: 11400000, guid: 89c382afdd34984459db52e9cbde3992, type: 2}
+  - {fileID: 11400000, guid: 2c0e2857caca4c4458649f515e8b7f29, type: 2}
+  - {fileID: 11400000, guid: e0e9f63439e131444afc8318ed8d8813, type: 2}
+  - {fileID: 11400000, guid: 9efd739f346a57c4abd037971bdacb87, type: 2}
+  OutsideEvents:
+  - {fileID: 11400000, guid: 0f68c695a12264a48ba530454d1ee2ed, type: 2}
+  - {fileID: 11400000, guid: f381fcbbfefd62140b4e15bb04039b16, type: 2}
+  - {fileID: 11400000, guid: 372ff8acc21677844a02512edd0672b3, type: 2}
+  CommentsEvent:
+  - {fileID: 11400000, guid: a8e9670d5841951449662212971ed18f, type: 2}
+  - {fileID: 11400000, guid: 41de102e0bb01af4e8da73939daa4c2f, type: 2}
+  - {fileID: 11400000, guid: f6f113b886881d64cabcdd306279b9de, type: 2}
+  - {fileID: 11400000, guid: 254fa78912aa1ed46bce0c9414e2439a, type: 2}
+  - {fileID: 11400000, guid: e9b23a255d4e7ff4c972e04b5d8c785a, type: 2}

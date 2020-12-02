@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2505bd1a0ca50469fc0ed9fdc75d15, type: 3}
+  m_Name: Streaming4
+  m_EditorClassIdentifier: 
+  Description: STREAMING4D
+  OptionOneDescription: STREAMING4A
+  OptionTwoDescription: STREAMING4B
+  OptionOneType1: 0
+  OptionOneType2: 4
+  OptionTwoType1: 2
+  OptionTwoType2: 3
+  OptionOneAmount1: 100
+  OptionOneAmount2: 1
+  OptionTwoAmount1: 5
+  OptionTwoAmount2: 1
